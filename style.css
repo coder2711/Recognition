@@ -18,3 +18,7 @@ body{
     color: rgb(39, 28, 189);
     font-size: 18px;
 }
+#Captured_image{
+    width: 350px;
+    height: 300px;
+}
